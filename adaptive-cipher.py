@@ -178,7 +178,7 @@ def frequency_analysis(keyword, alphabet):
 
 window = tk.Tk()
 window.geometry('1250x820')
-window.title('Adaptive cipher')
+window.title('Adaptive Cipher')
 
 label_ch = tk.Label(text='\nAlphabet')
 label_ch.pack()
