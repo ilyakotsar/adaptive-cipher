@@ -7,14 +7,14 @@ Symmetric text encryption with unique vigenere table generation. Python (Tkinter
 
 - Install Python https://www.python.org/downloads/
 - If you are using Linux install Tkinter
-'''
+```
     sudo apt install python3-tk
-'''
+```
 - Download and run adaptive-cipher.py
-'''
+```
     python adaptive-cipher.py
     python3 adaptive-cipher.py
-'''
+```
 
 ## Usage
 
