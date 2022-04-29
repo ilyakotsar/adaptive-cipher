@@ -2,6 +2,7 @@
 
 Symmetric text encryption with unique vigenere table generation. Python (Tkinter)
 
+![image](https://github.com/ilyakotsar/adaptive-cipher/blob/main/screenshot-encryption.png)
 
 ## Installation
 
